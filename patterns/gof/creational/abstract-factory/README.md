@@ -1,6 +1,6 @@
 # Abstract Factory
 
-An exemplary implementation of Abstarct Factory design pattern.
+An exemplary implementation of Abstarct Factory design pattern. [Wiki reference](https://en.wikipedia.org/wiki/Abstract_factory_pattern).
 
 ## Goal
 
