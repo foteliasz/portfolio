@@ -12,3 +12,4 @@ A collection of technology agnostic OOP design patterns from the book: *Design P
 
 * Creational design patterns
   * [Abstract Factory](patterns/gof/creational/abstract-factory/README.md)
+  * [Singleton](patterns/gof/creational/singleton/README.md)
